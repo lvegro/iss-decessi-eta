@@ -9,7 +9,7 @@
 
 library(shiny)
 
-data1 <- readr::read_csv("./data/data1.csv")
+data1 <- readr::read_csv("https://raw.githubusercontent.com/lvegro/iss-decessi-eta/main/data/data1.csv")
 
 txt70 <- data1 %>%
     filter(week >= as.Date("2021-01-01")) %>%
