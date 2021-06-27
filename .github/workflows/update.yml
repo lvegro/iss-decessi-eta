@@ -1,11 +1,11 @@
-# Hourly scraping
+# Scraping
 name: update
 
 # Controls when the action will run.
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '* */4 * * *'
+    - cron:  '0 */4 * * *'
 
 
 jobs: 
