@@ -1,0 +1,211 @@
+Regione,area,fascia_anagrafica,pop
+Piemonte,PIE,Under 12,398343
+Valle d'Aosta,VDA,Under 12,12043
+Lombardia,LOM,Under 12,1022605
+Veneto,VEN,Under 12,478147
+Friuli-Venezia Giulia,FVG,Under 12,108079
+Liguria,LIG,Under 12,125739
+Emilia-Romagna,EMR,Under 12,439909
+Toscana,TOS,Under 12,338714
+Umbria,UMB,Under 12,79780
+Marche,MAR,Under 12,141802
+Lazio,LAZ,Under 12,573233
+Abruzzo,ABR,Under 12,120610
+Molise,MOL,Under 12,25237
+Campania,CAM,Under 12,614271
+Puglia,PUG,Under 12,381375
+Basilicata,BAS,Under 12,48622
+Calabria,CAL,Under 12,189111
+Sicilia,SIC,Under 12,504267
+Sardegna,SAR,Under 12,132050
+Bolzano,PAB,Under 12,65516
+Trento,PAT,Under 12,58871
+Piemonte,PIE,12-19,306962
+Valle d'Aosta,VDA,12-19,9436
+Lombardia,LOM,12-19,769069
+Veneto,VEN,12-19,374041
+Friuli-Venezia Giulia,FVG,12-19,84835
+Liguria,LIG,12-19,101627
+Emilia-Romagna,EMR,12-19,327229
+Toscana,TOS,12-19,265297
+Umbria,UMB,12-19,62999
+Marche,MAR,12-19,110108
+Lazio,LAZ,12-19,431221
+Abruzzo,ABR,12-19,92568
+Molise,MOL,12-19,20520
+Campania,CAM,12-19,500450
+Puglia,PUG,12-19,315971
+Basilicata,BAS,12-19,41004
+Calabria,CAL,12-19,146828
+Sicilia,SIC,12-19,398061
+Sardegna,SAR,12-19,107888
+Bolzano,PAB,12-19,46097
+Trento,PAT,12-19,44711
+Piemonte,PIE,20-29,404501
+Valle d'Aosta,VDA,20-29,11940
+Lombardia,LOM,20-29,983209
+Veneto,VEN,20-29,481339
+Friuli-Venezia Giulia,FVG,20-29,109577
+Liguria,LIG,20-29,136820
+Emilia-Romagna,EMR,20-29,420475
+Toscana,TOS,20-29,338693
+Umbria,UMB,20-29,81178
+Marche,MAR,20-29,145997
+Lazio,LAZ,20-29,558855
+Abruzzo,ABR,20-29,128330
+Molise,MOL,20-29,31281
+Campania,CAM,20-29,685126
+Puglia,PUG,20-29,435687
+Basilicata,BAS,20-29,59650
+Calabria,CAL,20-29,208920
+Sicilia,SIC,20-29,551159
+Sardegna,SAR,20-29,149270
+Bolzano,PAB,20-29,61426
+Trento,PAT,20-29,58234
+Piemonte,PIE,30-39,453297
+Valle d'Aosta,VDA,30-39,13010
+Lombardia,LOM,30-39,1145186
+Veneto,VEN,30-39,524439
+Friuli-Venezia Giulia,FVG,30-39,123868
+Liguria,LIG,30-39,147115
+Emilia-Romagna,EMR,30-39,495231
+Toscana,TOS,30-39,395198
+Umbria,UMB,30-39,95565
+Marche,MAR,30-39,163324
+Lazio,LAZ,30-39,665641
+Abruzzo,ABR,30-39,148176
+Molise,MOL,30-39,33973
+Campania,CAM,30-39,706752
+Puglia,PUG,30-39,453251
+Basilicata,BAS,30-39,64519
+Calabria,CAL,30-39,232935
+Sicilia,SIC,30-39,581042
+Sardegna,SAR,30-39,180864
+Bolzano,PAB,30-39,62922
+Trento,PAT,30-39,61070
+Piemonte,PIE,40-49,612180
+Valle d'Aosta,VDA,40-49,17884
+Lombardia,LOM,40-49,1504315
+Veneto,VEN,40-49,717331
+Friuli-Venezia Giulia,FVG,40-49,172496
+Liguria,LIG,40-49,203007
+Emilia-Romagna,EMR,40-49,674865
+Toscana,TOS,40-49,540242
+Umbria,UMB,40-49,124859
+Marche,MAR,40-49,218851
+Lazio,LAZ,40-49,879906
+Abruzzo,ABR,40-49,185634
+Molise,MOL,40-49,41036
+Campania,CAM,40-49,819391
+Puglia,PUG,40-49,570896
+Basilicata,BAS,40-49,76260
+Calabria,CAL,40-49,261369
+Sicilia,SIC,40-49,684564
+Sardegna,SAR,40-49,244621
+Bolzano,PAB,40-49,74006
+Trento,PAT,40-49,76322
+Piemonte,PIE,50-59,692135
+Valle d'Aosta,VDA,50-59,20922
+Lombardia,LOM,50-59,1609940
+Veneto,VEN,50-59,806474
+Friuli-Venezia Giulia,FVG,50-59,197534
+Liguria,LIG,50-59,253220
+Emilia-Romagna,EMR,50-59,712475
+Toscana,TOS,50-59,590377
+Umbria,UMB,50-59,135406
+Marche,MAR,50-59,236599
+Lazio,LAZ,50-59,940470
+Abruzzo,ABR,50-59,204504
+Molise,MOL,50-59,46916
+Campania,CAM,50-59,871123
+Puglia,PUG,50-59,607181
+Basilicata,BAS,50-59,87305
+Calabria,CAL,50-59,284757
+Sicilia,SIC,50-59,732410
+Sardegna,SAR,50-59,266104
+Bolzano,PAB,50-59,84510
+Trento,PAT,50-59,86000
+Piemonte,PIE,60-69,559966
+Valle d'Aosta,VDA,60-69,16123
+Lombardia,LOM,60-69,1201057
+Veneto,VEN,60-69,610635
+Friuli-Venezia Giulia,FVG,60-69,156447
+Liguria,LIG,60-69,203505
+Emilia-Romagna,EMR,60-69,549321
+Toscana,TOS,60-69,467270
+Umbria,UMB,60-69,111650
+Marche,MAR,60-69,194699
+Lazio,LAZ,60-69,707706
+Abruzzo,ABR,60-69,168878
+Molise,MOL,60-69,40784
+Campania,CAM,60-69,681008
+Puglia,PUG,60-69,494337
+Basilicata,BAS,60-69,73674
+Calabria,CAL,60-69,243667
+Sicilia,SIC,60-69,608346
+Sardegna,SAR,60-69,225334
+Bolzano,PAB,60-69,58814
+Trento,PAT,60-69,67987
+Piemonte,PIE,70-79,473035
+Valle d'Aosta,VDA,70-79,12953
+Lombardia,LOM,70-79,988111
+Veneto,VEN,70-79,494721
+Friuli-Venezia Giulia,FVG,70-79,140238
+Liguria,LIG,70-79,182496
+Emilia-Romagna,EMR,70-79,454505
+Toscana,TOS,70-79,406475
+Umbria,UMB,70-79,94797
+Marche,MAR,70-79,156000
+Lazio,LAZ,70-79,551477
+Abruzzo,ABR,70-79,131536
+Molise,MOL,70-79,30617
+Campania,CAM,70-79,491191
+Puglia,PUG,70-79,395276
+Basilicata,BAS,70-79,52557
+Calabria,CAL,70-79,177666
+Sicilia,SIC,70-79,460198
+Sardegna,SAR,70-79,172099
+Bolzano,PAB,70-79,46424
+Trento,PAT,70-79,52872
+Piemonte,PIE,80-89,307031
+Valle d'Aosta,VDA,80-89,7803
+Lombardia,LOM,80-89,615067
+Veneto,VEN,80-89,298205
+Friuli-Venezia Giulia,FVG,80-89,85322
+Liguria,LIG,80-89,125677
+Emilia-Romagna,EMR,80-89,299028
+Toscana,TOS,80-89,263150
+Umbria,UMB,80-89,63188
+Marche,MAR,80-89,108153
+Lazio,LAZ,80-89,338530
+Abruzzo,ABR,80-89,84626
+Molise,MOL,80-89,20753
+Campania,CAM,80-89,258456
+Puglia,PUG,80-89,224826
+Basilicata,BAS,80-89,35786
+Calabria,CAL,80-89,108240
+Sicilia,SIC,80-89,265138
+Sardegna,SAR,80-89,97957
+Bolzano,PAB,80-89,27677
+Trento,PAT,80-89,30673
+Piemonte,PIE,90+,65760
+Valle d'Aosta,VDA,90+,1781
+Lombardia,LOM,90+,128433
+Veneto,VEN,90+,67121
+Friuli-Venezia Giulia,FVG,90+,20357
+Liguria,LIG,90+,30599
+Emilia-Romagna,EMR,90+,72511
+Toscana,TOS,90+,62917
+Umbria,UMB,90+,15591
+Marche,MAR,90+,25873
+Lazio,LAZ,90+,73757
+Abruzzo,ABR,90+,20394
+Molise,MOL,90+,5430
+Campania,CAM,90+,51991
+Puglia,PUG,90+,48131
+Basilicata,BAS,90+,8202
+Calabria,CAL,90+,24235
+Sicilia,SIC,90+,55691
+Sardegna,SAR,90+,22038
+Bolzano,PAB,90+,6323
+Trento,PAT,90+,8005
